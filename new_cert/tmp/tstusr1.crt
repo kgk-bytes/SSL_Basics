@@ -1,0 +1,66 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4 (0x4)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=MY, ST=MAHA, L=PUNE, O=PSPL, OU=OBLIX-QA, CN=ps2436/emailAddress=sagar@pspl.com
+        Validity
+            Not Before: May 10 04:40:26 2013 GMT
+            Not After : May 10 04:40:26 2014 GMT
+        Subject: CN=tstusr1/emailAddress=tst@usr.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:a2:29:b5:b5:ad:e6:00:fc:e2:0a:86:8f:6a:2c:
+                    e8:e5:72:6a:01:42:76:1b:f1:ea:65:c4:fb:96:54:
+                    c5:3f:75:8a:a0:3e:5e:5c:8a:b0:5a:53:5f:6e:3d:
+                    93:84:d0:d6:2d:89:00:06:05:8a:5f:4d:97:b6:5c:
+                    61:59:ca:d9:90:39:64:07:ac:e8:74:28:04:a7:c0:
+                    6e:33:cf:47:bc:76:95:23:eb:63:7f:57:da:77:af:
+                    6c:71:6a:52:99:99:de:10:85:99:4a:35:ad:4a:42:
+                    3a:68:a0:ae:09:be:d7:a4:e3:88:40:60:21:f1:2e:
+                    d5:22:4f:5e:a4:b9:26:22:b5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: 
+                email:tst@usr.com
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Authority Key Identifier: 
+                keyid:DB:F8:6A:15:0A:82:53:1F:C2:EB:CC:D0:6E:83:72:57:E4:45:F2:74
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication, E-mail Protection
+            Authority Information Access: 
+                OCSP - URI:http://slc03snd.us.oracle.com:9797
+
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment
+    Signature Algorithm: md5WithRSAEncryption
+        bb:21:b1:d8:c2:21:a5:4d:4b:7a:bd:86:86:42:54:66:b8:ef:
+        fb:22:e7:5a:2b:52:3f:c5:e0:c8:2a:0b:69:70:34:84:df:63:
+        0c:b1:66:97:c0:63:1d:1d:7a:4f:f9:92:04:d2:24:6d:50:8b:
+        1e:81:97:40:2b:76:06:8f:92:5e:d5:c5:2c:18:e1:c6:f7:da:
+        5d:bf:3e:93:cd:1c:c7:e8:1a:23:fc:9a:ec:fc:29:9b:ad:0d:
+        ad:4c:8a:a1:7b:79:c8:86:05:ed:d5:67:21:8e:60:7d:fc:78:
+        f5:01:9d:e4:2d:8d:bd:53:0f:ae:f9:d2:12:63:a5:3f:8e:7d:
+        46:1d
+-----BEGIN CERTIFICATE-----
+MIIC2DCCAkGgAwIBAgIBBDANBgkqhkiG9w0BAQQFADB9MQswCQYDVQQGEwJNWTEN
+MAsGA1UECBMETUFIQTENMAsGA1UEBxMEUFVORTENMAsGA1UEChMEUFNQTDERMA8G
+A1UECxMIT0JMSVgtUUExDzANBgNVBAMTBnBzMjQzNjEdMBsGCSqGSIb3DQEJARYO
+c2FnYXJAcHNwbC5jb20wHhcNMTMwNTEwMDQ0MDI2WhcNMTQwNTEwMDQ0MDI2WjAu
+MRAwDgYDVQQDEwd0c3R1c3IxMRowGAYJKoZIhvcNAQkBFgt0c3RAdXNyLmNvbTCB
+nzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAoim1ta3mAPziCoaPaizo5XJqAUJ2
+G/HqZcT7llTFP3WKoD5eXIqwWlNfbj2ThNDWLYkABgWKX02XtlxhWcrZkDlkB6zo
+dCgEp8BuM89HvHaVI+tjf1fad69scWpSmZneEIWZSjWtSkI6aKCuCb7XpOOIQGAh
+8S7VIk9epLkmIrUCAwEAAaOBtjCBszAWBgNVHREEDzANgQt0c3RAdXNyLmNvbTAM
+BgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFNv4ahUKglMfwuvM0G6DclfkRfJ0MB0G
+A1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDA+BggrBgEFBQcBAQQyMDAwLgYI
+KwYBBQUHMAGGImh0dHA6Ly9zbGMwM3NuZC51cy5vcmFjbGUuY29tOjk3OTcwCwYD
+VR0PBAQDAgXgMA0GCSqGSIb3DQEBBAUAA4GBALshsdjCIaVNS3q9hoZCVGa47/si
+51orUj/F4MgqC2lwNITfYwyxZpfAYx0dek/5kgTSJG1Qix6Bl0ArdgaPkl7VxSwY
+4cb32l2/PpPNHMfoGiP8muz8KZutDa1MiqF7eciGBe3VZyGOYH38ePUBneQtjb1T
+D6750hJjpT+OfUYd
+-----END CERTIFICATE-----

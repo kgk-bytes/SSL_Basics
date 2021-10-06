@@ -1,0 +1,68 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 232 (0xe8)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=IN, ST=KA, L=BLR, O=ORCL, OU=IDM, CN=rootca/emailAddress=kgurupra@oracle.com
+        Validity
+            Not Before: Aug 31 07:05:02 2021 GMT
+            Not After : Aug 31 07:05:02 2023 GMT
+        Subject: C=IN, ST=KA, L=BLR, O=IAM, OU=OAM, CN=rt-ocsp0/emailAddress=rt-ocsp0@oracle.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:af:db:07:7e:98:17:52:0d:aa:7a:53:89:db:21:
+                    07:ff:bc:1b:f7:f5:30:7e:c9:53:68:8d:55:65:d9:
+                    a0:a8:92:5a:49:aa:e5:dc:a0:0c:7c:c0:99:e6:10:
+                    f9:a9:ab:42:57:ea:32:b0:43:1f:45:2a:6c:3f:d1:
+                    25:db:3d:e9:df:b5:83:25:e0:9e:67:45:b7:d8:93:
+                    60:25:15:38:53:25:63:84:a7:75:ae:2e:dd:6e:a7:
+                    cf:16:1d:8c:15:1f:f1:cf:fe:51:6f:18:bc:d9:48:
+                    39:22:cf:bb:7a:fd:92:5c:cc:b7:31:e0:91:13:de:
+                    bf:d1:5f:84:35:bf:7d:99:a2:a9:59:df:75:17:3e:
+                    0c:e4:53:0e:e4:bd:ae:c6:d9:a2:c9:dc:f2:8a:91:
+                    4a:c9:3e:fa:0a:8a:2e:97:ce:cd:ee:54:71:31:36:
+                    7b:5f:84:72:9e:cd:41:95:a0:c4:0e:b0:bb:f6:ff:
+                    56:de:cf:b5:23:82:a4:f0:5a:6b:e9:b0:1f:2e:9b:
+                    6e:09:24:07:55:68:ed:8c:6d:ec:ed:8c:93:2a:f7:
+                    03:cc:01:d8:b1:f2:db:6b:ff:05:d1:8f:dc:cd:e8:
+                    53:a6:4d:7c:81:c7:13:23:ba:62:72:e9:b4:e2:68:
+                    a7:fe:b9:22:7a:71:07:e2:19:09:30:fb:7f:10:01:
+                    20:b9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: 
+                Digital Signature, Non Repudiation, Key Encipherment
+            X509v3 Extended Key Usage: 
+                OCSP Signing
+    Signature Algorithm: sha1WithRSAEncryption
+         12:2f:0d:4e:98:3d:e7:4e:95:86:5f:b1:34:7e:1b:a3:07:ca:
+         b2:3f:22:b1:63:34:dc:b4:9b:98:3d:ae:6e:30:a0:0b:81:60:
+         b2:37:85:6c:e8:fc:53:ff:27:5d:8d:40:ea:a8:8c:55:4d:38:
+         27:cd:ab:38:28:66:6a:c6:3d:8b:4f:28:c6:03:f2:67:a0:64:
+         be:f1:a5:eb:49:d3:9d:10:d0:f7:6a:0f:a0:2f:2e:86:e4:1b:
+         a6:d6:ff:20:94:4e:15:d1:61:51:a0:6e:2a:79:fc:0a:74:cf:
+         96:6a:71:f7:ca:3e:86:a9:ec:fb:0e:70:35:4d:e6:8a:64:9f:
+         10:6c
+-----BEGIN CERTIFICATE-----
+MIIDHzCCAoigAwIBAgICAOgwDQYJKoZIhvcNAQEFBQAwejELMAkGA1UEBhMCSU4x
+CzAJBgNVBAgTAktBMQwwCgYDVQQHEwNCTFIxDTALBgNVBAoTBE9SQ0wxDDAKBgNV
+BAsTA0lETTEPMA0GA1UEAxMGcm9vdGNhMSIwIAYJKoZIhvcNAQkBFhNrZ3VydXBy
+YUBvcmFjbGUuY29tMB4XDTIxMDgzMTA3MDUwMloXDTIzMDgzMTA3MDUwMlowezEL
+MAkGA1UEBhMCSU4xCzAJBgNVBAgTAktBMQwwCgYDVQQHEwNCTFIxDDAKBgNVBAoT
+A0lBTTEMMAoGA1UECxMDT0FNMREwDwYDVQQDEwhydC1vY3NwMDEiMCAGCSqGSIb3
+DQEJARYTcnQtb2NzcDBAb3JhY2xlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAK/bB36YF1INqnpTidshB/+8G/f1MH7JU2iNVWXZoKiSWkmq5dyg
+DHzAmeYQ+amrQlfqMrBDH0UqbD/RJds96d+1gyXgnmdFt9iTYCUVOFMlY4Snda4u
+3W6nzxYdjBUf8c/+UW8YvNlIOSLPu3r9klzMtzHgkRPev9FfhDW/fZmiqVnfdRc+
+DORTDuS9rsbZosnc8oqRSsk++gqKLpfOze5UcTE2e1+Ecp7NQZWgxA6wu/b/Vt7P
+tSOCpPBaa+mwHy6bbgkkB1Vo7Yxt7O2Mkyr3A8wB2LHy22v/BdGP3M3oU6ZNfIHH
+EyO6YnLptOJop/65InpxB+IZCTD7fxABILkCAwEAAaMvMC0wCQYDVR0TBAIwADAL
+BgNVHQ8EBAMCBeAwEwYDVR0lBAwwCgYIKwYBBQUHAwkwDQYJKoZIhvcNAQEFBQAD
+gYEAEi8NTpg9506Vhl+xNH4bowfKsj8isWM03LSbmD2ubjCgC4FgsjeFbOj8U/8n
+XY1A6qiMVU04J82rOChmasY9i08oxgPyZ6BkvvGl60nTnRDQ92oPoC8uhuQbptb/
+IJROFdFhUaBuKnn8CnTPlmpx98o+hqns+w5wNU3mimSfEGw=
+-----END CERTIFICATE-----

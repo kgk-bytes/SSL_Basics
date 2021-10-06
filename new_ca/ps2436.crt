@@ -1,0 +1,58 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=IN, ST=MAHA, L=PUNE, O=ORACLE, OU=PSL, CN=SAGAR`s NEW CA/emailAddress=sagar.bongale@oracle.com
+        Validity
+            Not Before: Sep 25 10:38:54 2009 GMT
+            Not After : Sep 25 10:38:54 2010 GMT
+        Subject: CN=ps2436.persistent.co.in/emailAddress=sagar.bongale@oracle.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:f0:39:cc:08:25:99:2c:9e:32:ef:a1:27:d3:c4:
+                    0c:c7:9a:c3:91:dd:08:8a:0b:e3:0c:4c:e1:a7:05:
+                    a9:16:7f:11:87:9c:e8:4b:90:40:04:d3:fd:71:b8:
+                    ca:7f:d0:60:76:bb:ec:a1:cb:96:98:b9:87:48:10:
+                    58:f7:f1:41:ca:ef:2c:32:d5:66:96:8b:f4:9c:54:
+                    3c:f0:96:a5:77:91:b3:76:8b:a9:6d:a3:81:cc:42:
+                    f1:46:ea:73:e8:24:29:13:71:d3:13:0c:e2:e1:a5:
+                    ce:ae:c2:37:7d:be:f8:c5:14:3d:5c:06:c0:b6:a1:
+                    7a:37:6c:0c:8a:46:c8:57:61
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+            keyid:62:F8:26:51:6D:65:E3:03:EC:A8:05:29:19:A2:82:3B:EE:80:62:87
+
+            X509v3 Extended Key Usage: 
+            TLS Web Server Authentication, TLS Web Client Authentication, Microsoft Server Gated Crypto, Netscape Server Gated Crypto
+            X509v3 Basic Constraints: critical
+            CA:FALSE
+    Signature Algorithm: md5WithRSAEncryption
+        33:b8:30:09:2e:41:4b:29:27:85:1c:0a:ba:dc:13:b0:c7:b6:
+        81:45:52:09:71:3b:21:56:e1:d2:86:7e:36:37:60:cc:39:ca:
+        9f:a5:da:8a:8e:46:26:b1:a4:d9:e4:0e:d3:f9:60:88:20:37:
+        a7:fc:11:8d:8a:3c:b8:fa:74:45:de:26:ad:ba:6a:bc:48:d2:
+        07:c2:81:c8:61:f8:45:e3:22:d2:79:6b:1b:85:7b:e0:ae:ec:
+        e5:69:05:b5:f1:aa:bd:d7:bc:ce:09:3e:7b:3f:d9:5d:b2:ba:
+        70:0e:37:c0:4f:aa:72:c6:df:d3:f4:4e:6e:7d:3c:86:3b:d3:
+        5d:f0
+-----BEGIN CERTIFICATE-----
+MIICtTCCAh6gAwIBAgIBATANBgkqhkiG9w0BAQQFADCBjDELMAkGA1UEBhMCSU4x
+DTALBgNVBAgTBE1BSEExDTALBgNVBAcTBFBVTkUxDzANBgNVBAoTBk9SQUNMRTEM
+MAoGA1UECxMDUFNMMRcwFQYDVQQDFA5TQUdBUmBzIE5FVyBDQTEnMCUGCSqGSIb3
+DQEJARYYc2FnYXIuYm9uZ2FsZUBvcmFjbGUuY29tMB4XDTA5MDkyNTEwMzg1NFoX
+DTEwMDkyNTEwMzg1NFowSzEgMB4GA1UEAxMXcHMyNDM2LnBlcnNpc3RlbnQuY28u
+aW4xJzAlBgkqhkiG9w0BCQEWGHNhZ2FyLmJvbmdhbGVAb3JhY2xlLmNvbTCBnzAN
+BgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA8DnMCCWZLJ4y76En08QMx5rDkd0Iigvj
+DEzhpwWpFn8Rh5zoS5BABNP9cbjKf9BgdrvsocuWmLmHSBBY9/FByu8sMtVmlov0
+nFQ88Jald5GzdoupbaOBzELxRupz6CQpE3HTEwzi4aXOrsI3fb74xRQ9XAbAtqF6
+N2wMikbIV2ECAwEAAaNnMGUwHwYDVR0jBBgwFoAUYvgmUW1l4wPsqAUpGaKCO+6A
+YocwNAYDVR0lBC0wKwYIKwYBBQUHAwEGCCsGAQUFBwMCBgorBgEEAYI3CgMDBglg
+hkgBhvhCBAEwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQQFAAOBgQAzuDAJLkFL
+KSeFHAq63BOwx7aBRVIJcTshVuHShn42N2DMOcqfpdqKjkYmsaTZ5A7T+WCIIDen
+/BGNijy4+nRF3iatumq8SNIHwoHIYfhF4yLSeWsbhXvgruzlaQW18aq917zOCT57
+P9ldsrpwDjfAT6pyxt/T9E5ufTyGO9Nd8A==
+-----END CERTIFICATE-----

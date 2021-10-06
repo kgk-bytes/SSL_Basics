@@ -1,0 +1,77 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 211 (0xd3)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=IN, ST=KA, L=BLR, O=ORCL, OU=IDM, CN=rootca/emailAddress=kgurupra@oracle.com
+        Validity
+            Not Before: Jun 10 08:40:03 2021 GMT
+            Not After : Jun 10 08:40:03 2023 GMT
+        Subject: C=IN, ST=KA, L=BLR, O=IDM, OU=IAM, CN=rt-c0/emailAddress=rt-c0@oracle.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:95:bd:c8:ae:63:e6:ef:a1:4c:9f:0a:e2:46:78:
+                    ae:b5:2d:87:2c:1e:23:ab:cd:96:23:41:f3:d9:fd:
+                    dc:63:7e:f5:51:f2:1f:cd:11:0f:bf:00:3e:74:15:
+                    3b:4f:24:bb:a2:32:84:bd:39:8e:18:8d:8c:17:a3:
+                    d1:21:f7:7b:5b:3b:41:80:40:f0:e0:d7:59:08:eb:
+                    dd:0d:b8:7b:b3:36:99:c4:ef:f6:45:bb:16:14:45:
+                    75:4a:65:05:40:b6:c0:33:19:a9:08:68:c5:1a:0e:
+                    dc:e7:41:0f:39:99:2f:b5:7d:9d:2e:24:4a:11:4e:
+                    31:ff:fd:4e:bb:2c:0d:21:9d:4b:ef:96:fd:6a:0b:
+                    e1:8b:e3:a1:23:bd:68:76:a2:34:8e:01:df:58:83:
+                    d7:3a:be:a7:fa:14:0c:7c:e4:55:c3:22:92:7e:7e:
+                    8a:ce:c6:11:60:2b:80:f1:0f:67:75:95:a0:a3:41:
+                    04:2e:7d:f4:de:80:cb:0f:d4:f9:21:9a:53:e3:9a:
+                    42:d8:1f:a0:9e:62:77:61:b5:f8:f1:f6:8c:a9:06:
+                    a3:f9:91:18:24:e3:d1:c5:f4:9a:71:05:7f:89:84:
+                    43:62:c7:06:82:1c:77:55:48:eb:96:61:44:d0:ea:
+                    21:a9:1c:6e:80:31:61:d5:a4:59:06:6c:78:d7:68:
+                    fe:69
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: 
+                email:rt-c0@oracle.com
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Authority Key Identifier: 
+                keyid:DB:F8:6A:15:0A:82:53:1F:C2:EB:CC:D0:6E:83:72:57:E4:45:F2:74
+
+            Authority Information Access: 
+                OCSP - URI:http://slc12pyt.us.oracle.com:6060
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication, Microsoft Smartcardlogin
+    Signature Algorithm: sha1WithRSAEncryption
+         8d:4c:2b:d6:5c:81:9b:06:22:6d:67:0c:95:58:1e:1a:63:80:
+         76:40:bf:ec:94:31:fd:eb:3b:0a:f0:3e:2d:bc:6b:05:6a:b3:
+         eb:6f:72:fd:0b:7b:49:f8:a3:4f:64:83:9d:e3:17:ef:84:0a:
+         58:bb:3c:fd:cf:b9:d5:08:a6:ee:df:58:31:34:6a:d7:80:ff:
+         61:d1:84:3b:2e:d9:01:aa:4c:1a:db:43:f1:de:12:3c:29:90:
+         b6:15:ef:75:6a:ae:dd:ba:79:fa:d8:ea:c3:32:2e:1a:1f:66:
+         e6:f6:ca:b2:8a:9a:ff:74:83:60:4b:84:1d:8a:a9:15:2c:d9:
+         cf:98
+-----BEGIN CERTIFICATE-----
+MIIDmzCCAwSgAwIBAgICANMwDQYJKoZIhvcNAQEFBQAwejELMAkGA1UEBhMCSU4x
+CzAJBgNVBAgTAktBMQwwCgYDVQQHEwNCTFIxDTALBgNVBAoTBE9SQ0wxDDAKBgNV
+BAsTA0lETTEPMA0GA1UEAxMGcm9vdGNhMSIwIAYJKoZIhvcNAQkBFhNrZ3VydXBy
+YUBvcmFjbGUuY29tMB4XDTIxMDYxMDA4NDAwM1oXDTIzMDYxMDA4NDAwM1owdTEL
+MAkGA1UEBhMCSU4xCzAJBgNVBAgTAktBMQwwCgYDVQQHEwNCTFIxDDAKBgNVBAoT
+A0lETTEMMAoGA1UECxMDSUFNMQ4wDAYDVQQDEwVydC1jMDEfMB0GCSqGSIb3DQEJ
+ARYQcnQtYzBAb3JhY2xlLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAJW9yK5j5u+hTJ8K4kZ4rrUthyweI6vNliNB89n93GN+9VHyH80RD78APnQV
+O08ku6IyhL05jhiNjBej0SH3e1s7QYBA8ODXWQjr3Q24e7M2mcTv9kW7FhRFdUpl
+BUC2wDMZqQhoxRoO3OdBDzmZL7V9nS4kShFOMf/9TrssDSGdS++W/WoL4YvjoSO9
+aHaiNI4B31iD1zq+p/oUDHzkVcMikn5+is7GEWArgPEPZ3WVoKNBBC599N6Ayw/U
++SGaU+OaQtgfoJ5id2G1+PH2jKkGo/mRGCTj0cX0mnEFf4mEQ2LHBoIcd1VI65Zh
+RNDqIakcboAxYdWkWQZseNdo/mkCAwEAAaOBsDCBrTAbBgNVHREEFDASgRBydC1j
+MEBvcmFjbGUuY29tMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAU2/hqFQqCUx/C
+68zQboNyV+RF8nQwPgYIKwYBBQUHAQEEMjAwMC4GCCsGAQUFBzABhiJodHRwOi8v
+c2xjMTJweXQudXMub3JhY2xlLmNvbTo2MDYwMB8GA1UdJQQYMBYGCCsGAQUFBwMC
+BgorBgEEAYI3FAICMA0GCSqGSIb3DQEBBQUAA4GBAI1MK9ZcgZsGIm1nDJVYHhpj
+gHZAv+yUMf3rOwrwPi28awVqs+tvcv0Le0n4o09kg53jF++ECli7PP3PudUIpu7f
+WDE0ateA/2HRhDsu2QGqTBrbQ/HeEjwpkLYV73Vqrt26efrY6sMyLhofZub2yrKK
+mv90g2BLhB2KqRUs2c+Y
+-----END CERTIFICATE-----

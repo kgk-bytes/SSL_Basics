@@ -1,0 +1,58 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=US, ST=Cali, L=Red, O=Oracle, OU=IDM, CN=mac/emailAddress=mac@mac.mac
+        Validity
+            Not Before: May  9 16:04:16 2013 GMT
+            Not After : May  9 16:04:16 2014 GMT
+        Subject: C=US, ST=Ca, L=R, O=O, OU=I, CN=tstusr1/emailAddress=a
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:ca:ec:b0:a7:9e:c8:14:40:f0:db:e4:58:53:87:
+                    95:29:95:71:32:f2:82:21:1c:8b:98:c2:2d:74:98:
+                    c3:4b:c6:3e:03:3a:59:4a:61:ae:a5:78:a1:4d:a7:
+                    29:d4:5e:9d:13:0d:95:67:84:1b:75:5b:01:c6:f0:
+                    3f:1c:e9:06:2f:8b:4b:93:17:52:7c:3a:04:10:a8:
+                    a7:f4:cf:b1:73:07:7f:2b:39:f1:04:bc:37:f3:13:
+                    0e:9b:1d:f6:c8:53:d6:c3:52:a3:8e:71:0e:c2:cf:
+                    4b:c5:35:2c:04:cd:50:76:45:85:55:7e:47:01:ef:
+                    51:bc:31:ae:04:39:c9:2c:d7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:F6:F6:DA:EE:0F:EE:F2:54:4A:1F:DF:EB:42:71:5F:AB:21:58:50:17
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication, Microsoft Server Gated Crypto, Netscape Server Gated Crypto
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+    Signature Algorithm: md5WithRSAEncryption
+        6d:23:71:d3:a1:a1:7b:a5:ab:a9:ab:9c:29:0d:7d:a3:15:2e:
+        6a:ea:3b:36:3f:7e:17:d7:31:a4:d5:d3:8b:81:0f:2f:25:8e:
+        1b:8a:30:34:a6:5d:e6:73:1f:b2:a0:41:67:0f:e4:0a:6e:65:
+        80:72:2c:6b:5c:b7:4b:f5:83:4d:c9:0b:d3:f2:ab:2e:8c:f1:
+        c7:9c:22:62:c1:01:4a:8d:a4:b1:ec:63:90:6b:ef:7d:e5:29:
+        30:00:98:ba:0b:21:1d:8e:bd:d3:f3:2b:40:33:93:50:c0:ef:
+        02:32:9e:1e:60:3d:f8:51:59:21:1d:56:12:a6:16:85:2a:ee:
+        a5:85
+-----BEGIN CERTIFICATE-----
+MIICsjCCAhugAwIBAgIBATANBgkqhkiG9w0BAQQFADBzMQswCQYDVQQGEwJVUzEN
+MAsGA1UECBMEQ2FsaTEMMAoGA1UEBxMDUmVkMQ8wDQYDVQQKEwZPcmFjbGUxDDAK
+BgNVBAsTA0lETTEMMAoGA1UEAxMDbWFjMRowGAYJKoZIhvcNAQkBFgttYWNAbWFj
+Lm1hYzAeFw0xMzA1MDkxNjA0MTZaFw0xNDA1MDkxNjA0MTZaMGIxCzAJBgNVBAYT
+AlVTMQswCQYDVQQIEwJDYTEKMAgGA1UEBxMBUjEKMAgGA1UEChMBTzEKMAgGA1UE
+CxMBSTEQMA4GA1UEAxMHdHN0dXNyMTEQMA4GCSqGSIb3DQEJARYBYTCBnzANBgkq
+hkiG9w0BAQEFAAOBjQAwgYkCgYEAyuywp57IFEDw2+RYU4eVKZVxMvKCIRyLmMIt
+dJjDS8Y+AzpZSmGupXihTacp1F6dEw2VZ4QbdVsBxvA/HOkGL4tLkxdSfDoEEKin
+9M+xcwd/KznxBLw38xMOmx32yFPWw1KjjnEOws9LxTUsBM1QdkWFVX5HAe9RvDGu
+BDnJLNcCAwEAAaNnMGUwHwYDVR0jBBgwFoAU9vba7g/u8lRKH9/rQnFfqyFYUBcw
+NAYDVR0lBC0wKwYIKwYBBQUHAwEGCCsGAQUFBwMCBgorBgEEAYI3CgMDBglghkgB
+hvhCBAEwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQQFAAOBgQBtI3HToaF7paup
+q5wpDX2jFS5q6js2P34X1zGk1dOLgQ8vJY4bijA0pl3mcx+yoEFnD+QKbmWAcixr
+XLdL9YNNyQvT8qsujPHHnCJiwQFKjaSx7GOQa+995SkwAJi6CyEdjr3T8ytAM5NQ
+wO8CMp4eYD34UVkhHVYSphaFKu6lhQ==
+-----END CERTIFICATE-----
